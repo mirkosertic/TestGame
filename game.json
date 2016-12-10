@@ -1,0 +1,10 @@
+{
+  "enableDebug" : "true",
+  "customProperties" : {
+    "data" : [ ]
+  },
+  "enablewebgl" : "true",
+  "name" : "Dukes Adventure",
+  "defaultscene" : "scene1",
+  "scenes": ["scene1", "scene2"]
+}
