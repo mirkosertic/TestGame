@@ -722,11 +722,11 @@
       },
       "components": [
         {
-          "active": "true",
-          "type": "Physics"
+          "type": "Sprite"
         },
         {
-          "type": "Sprite"
+          "active": "true",
+          "type": "Physics"
         }
       ],
       "position": {
@@ -745,11 +745,11 @@
       },
       "components": [
         {
-          "active": "true",
-          "type": "Physics"
+          "type": "Sprite"
         },
         {
-          "type": "Sprite"
+          "active": "true",
+          "type": "Physics"
         }
       ],
       "position": {
@@ -768,11 +768,11 @@
       },
       "components": [
         {
-          "active": "true",
-          "type": "Physics"
+          "type": "Sprite"
         },
         {
-          "type": "Sprite"
+          "active": "true",
+          "type": "Physics"
         }
       ],
       "position": {
@@ -791,11 +791,11 @@
       },
       "components": [
         {
-          "active": "true",
-          "type": "Physics"
+          "type": "Sprite"
         },
         {
-          "type": "Sprite"
+          "active": "true",
+          "type": "Physics"
         }
       ],
       "position": {
@@ -814,11 +814,11 @@
       },
       "components": [
         {
-          "active": "true",
-          "type": "Physics"
+          "type": "Sprite"
         },
         {
-          "type": "Sprite"
+          "active": "true",
+          "type": "Physics"
         }
       ],
       "position": {
@@ -837,11 +837,11 @@
       },
       "components": [
         {
-          "active": "true",
-          "type": "Physics"
+          "type": "Sprite"
         },
         {
-          "type": "Sprite"
+          "active": "true",
+          "type": "Physics"
         }
       ],
       "position": {
@@ -2108,11 +2108,11 @@
       },
       "components": [
         {
-          "active": "true",
-          "type": "Physics"
+          "type": "Sprite"
         },
         {
-          "type": "Sprite"
+          "active": "true",
+          "type": "Physics"
         }
       ],
       "position": {
@@ -2131,11 +2131,11 @@
       },
       "components": [
         {
-          "active": "true",
-          "type": "Physics"
+          "type": "Sprite"
         },
         {
-          "type": "Sprite"
+          "active": "true",
+          "type": "Physics"
         }
       ],
       "position": {
@@ -2154,11 +2154,11 @@
       },
       "components": [
         {
-          "active": "true",
-          "type": "Physics"
+          "type": "Sprite"
         },
         {
-          "type": "Sprite"
+          "active": "true",
+          "type": "Physics"
         }
       ],
       "position": {
