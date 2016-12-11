@@ -1,10 +1,1 @@
-{
-  "enableDebug" : "true",
-  "customProperties" : {
-    "data" : [ ]
-  },
-  "enablewebgl" : "true",
-  "name" : "Dukes Adventure",
-  "defaultscene" : "scene1",
-  "scenes": ["scene1", "scene2"]
-}
+eyJlbmFibGVEZWJ1ZyI6InRydWUiLCJjdXN0b21Qcm9wZXJ0aWVzIjp7ImRhdGEiOltdfSwiZW5hYmxld2ViZ2wiOiJ0cnVlIiwic2NlbmVzIjpbInNjZW5lMSIsInNjZW5lMiJdLCJlbmFibGVOZXR3b3JraW5nIjoiZmFsc2UiLCJmaXJlYmFzZVVSTCI6Imh0dHBzOi8vZ2xvd2luZy1oZWF0LTIxODkuZmlyZWJhc2Vpby5jb20iLCJkZWZhdWx0c2NlbmUiOiJzY2VuZTEiLCJuYW1lIjoiRHVrZXMgQWR2ZW50dXJlIn0=
